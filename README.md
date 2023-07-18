@@ -23,4 +23,4 @@
 - Python
 - Microfrontends
 
-🔗 Connect with me on [https://www.linkedin.com/in/preetham-p-m/] for more details about my experience and projects.
+🔗 Connect with me on [linkedin/preetham-p-m](https://www.linkedin.com/in/preetham-p-m/) for more details about my experience and projects.
