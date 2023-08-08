@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Preetham</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-
-👋 Hello! I'm Preetham P M, a passionate .NET and React developer with experience in GitHub Actions, Docker, TypeScript, and MySQL. I also have a solid understanding of Java and Python.
-
 💻 I specialize in building robust and scalable web applications using the latest technologies and industry best practices. With a meticulous approach to code architecture, I prioritize clean, modular, and maintainable solutions that contribute to seamless backend systems and intuitive frontend interfaces.
 
 🚀 Drawing on my experience, I have successfully tackled complex problems and crafted innovative solutions using .NET, React, and TypeScript. I leverage the power of GitHub Actions and Docker to streamline development processes, implementing seamless integration, automated testing, and efficient continuous deployment pipelines.
